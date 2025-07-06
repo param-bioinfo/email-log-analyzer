@@ -26,9 +26,6 @@ All using just:
 Example line from the input log:
 From zqian@umich.edu Fri Jan 4 15:03:18 2008
 
-yaml
-Copy
-Edit
 
 ---
 
@@ -59,13 +56,11 @@ iupui.edu: 1
 
 
 📁 File Structure
-csharp
-Copy
-Edit
+
 email-log-analyzer/
-├── email_analyzer.py      # Main script
-├── mbox-short.txt         # Sample input file
-├── README.md              # This file
+├── email_analyzer.py   
+├── mbox-short.txt         
+├── README.md              
 💡 Concepts Used
 open(), readline(), split()
 
@@ -76,8 +71,8 @@ max() with key=
 sorted()
 ```
 Basic string slicing
-
-🚀 Future Additions (Ideas)
+---
+## 🚀 Future Additions (Ideas)
 Export results to .csv
 
 Plot histogram of hourly emails using matplotlib
@@ -85,11 +80,11 @@ Plot histogram of hourly emails using matplotlib
 Accept file path via CLI argument
 
 Handle large files with memory optimization
-
-🎓 Inspired By
+---
+## 🎓 Inspired By
 Python for Everybody - University of Michigan (Coursera)
-
-🧑‍💻 Author
+---
+## 🧑‍💻 Author
 Param Singh
 🔗 github.com/param-bioinfo
 
