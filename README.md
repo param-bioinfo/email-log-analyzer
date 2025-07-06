@@ -37,6 +37,7 @@ When prompted:
 
 
 Enter filename: mbox-short.txt
+```
 📈 Example Output
 
 📤 Top Email Sender:
@@ -54,14 +55,16 @@ iupui.edu: 1
 16:00 - 1 emails
 18:00 - 1 emails
 
+---
 
-📁 File Structure
+## 📁 File Structure
 
 email-log-analyzer/
 ├── email_analyzer.py   
 ├── mbox-short.txt         
-├── README.md              
-💡 Concepts Used
+├── README.md
+---        
+## 💡 Concepts Used
 open(), readline(), split()
 
 Dictionary .get() method
@@ -69,7 +72,7 @@ Dictionary .get() method
 max() with key=
 
 sorted()
-```
+
 Basic string slicing
 ---
 ## 🚀 Future Additions (Ideas)
