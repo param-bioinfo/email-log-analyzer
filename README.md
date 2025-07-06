@@ -40,19 +40,29 @@ Enter filename: mbox-short.txt
 ## Example Output
 ```bash
 Top Email Sender:
-zqian@umich.edu: 2 emails
+cwen@iupui.edu: 5 emails
 
 Email Domain Counts:
-umich.edu: 2
-media.berkeley.edu: 1
-uct.ac.za: 1
-iupui.edu: 1
+iupui.edu: 8
+umich.edu: 7
+uct.ac.za: 6
+media.berkeley.edu: 4
+caret.cam.ac.uk: 1
+gmail.com: 1
 
 Emails Sent by Hour:
-09:00 - 1 emails
+04:00 - 3 emails
+06:00 - 1 emails
+07:00 - 1 emails
+09:00 - 2 emails
+10:00 - 3 emails
+11:00 - 6 emails
+14:00 - 1 emails
 15:00 - 2 emails
-16:00 - 1 emails
+16:00 - 4 emails
+17:00 - 2 emails
 18:00 - 1 emails
+19:00 - 1 emails
 ```
 ---
 
