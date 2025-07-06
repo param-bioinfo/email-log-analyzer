@@ -38,14 +38,10 @@ Edit
 python3 email_analyzer.py
 When prompted:
 
-cpp
-Copy
-Edit
+
 Enter filename: mbox-short.txt
 📈 Example Output
-makefile
-Copy
-Edit
+
 📤 Top Email Sender:
 zqian@umich.edu: 2 emails
 
@@ -60,6 +56,8 @@ iupui.edu: 1
 15:00 - 2 emails
 16:00 - 1 emails
 18:00 - 1 emails
+
+
 📁 File Structure
 csharp
 Copy
@@ -76,7 +74,7 @@ Dictionary .get() method
 max() with key=
 
 sorted()
-
+```
 Basic string slicing
 
 🚀 Future Additions (Ideas)
@@ -95,17 +93,3 @@ Python for Everybody - University of Michigan (Coursera)
 Param Singh
 🔗 github.com/param-bioinfo
 
-yaml
-Copy
-Edit
-
----
-
-### ✅ To Add to GitHub
-
-1. Save this in your local `README.md`
-2. Commit and push:
-```bash
-git add README.md
-git commit -m "Added detailed README with usage and output"
-git push
