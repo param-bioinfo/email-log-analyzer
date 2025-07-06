@@ -9,9 +9,9 @@ Built after completing the **Python for Everybody** course by Dr. Charles Severa
 
 This script reads a plain-text email log file (like `mbox-short.txt`) and extracts:
 
-- 📤 **Top email senders**
-- 📨 **Frequency of email domains** (e.g., `umich.edu`)
-- ⏰ **Number of emails sent by hour** (e.g., `15:00`)
+- **Top email senders**
+- **Frequency of email domains** (e.g., `umich.edu`)
+- **Number of emails sent by hour** (e.g., `15:00`)
 
 All using just:
 - File handling
@@ -23,9 +23,7 @@ All using just:
 
 ## Sample Input
 
-Example line from the input log:
-From zqian@umich.edu Fri Jan 4 15:03:18 2008
-
+Example line from the input log: From zqian@umich.edu Fri Jan 4 15:03:18 2008
 
 ---
 
