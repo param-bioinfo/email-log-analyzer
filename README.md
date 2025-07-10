@@ -1,6 +1,6 @@
 # Email Log Analyzer
 
-A beginner-friendly Python project to analyze email logs from `.txt` files.  
+A beginner Python project to analyze email logs from `.txt` files.  
 Built after completing the **Python for Everybody** course by Dr. Charles Severance.
 
 ---
